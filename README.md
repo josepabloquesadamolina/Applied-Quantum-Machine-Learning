@@ -1,4 +1,8 @@
 # Applied-Quantum-Machine-Learning
+
+### Simulated Annealing and Quantum Annealing for Non-negative/binary Matrix Factorization
+### Final Report of the course Applied Quantum Machine Learning
+
 Author: Jose Pablo Quesada-Molina (Ph.D. Candidate at DICA, Politecnico di Milano )
 
 This repository contains the implementation and data for the elaboration of the report required evaluation of the course: **Applied Quantum Machine Learning** taught at Politecnico di Milano (POLIMI) by Professor Paolo Cremonesi (DEIB, POLIMI), Alessandro Luongo (Research Fellow at Centre for Quantum Technologies) and Maurizio Ferrari Dacrema (Post-doctoral Researcher at DEIB, POLIMI). 
