@@ -1,7 +1,7 @@
 # Applied-Quantum-Machine-Learning
 
 ## Report of the course Applied Quantum Machine Learning
-### Quantum Annealing for Non-negative/binary Matrix Factorization
+### Quantum Annealing for Non-negative/binary matrix factorization
 
 Author: Jose Pablo Quesada-Molina (Ph.D. Candidate at DICA, Politecnico di Milano )
 
