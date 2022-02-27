@@ -7,7 +7,7 @@ Author: Jose Pablo Quesada-Molina (Ph.D. Candidate at DICA, Politecnico di Milan
 
 This repository contains the implementation and data for the elaboration of the report to be considered for evaluation of the course: **Applied Quantum Machine Learning** taught at Politecnico di Milano (POLIMI) by Professor Paolo Cremonesi (DEIB, POLIMI), Alessandro Luongo (Research Fellow at Centre for Quantum Technologies) and Maurizio Ferrari Dacrema (Post-doctoral Researcher at DEIB, POLIMI). 
 
-This work aims to partially reproduce the results of the **Non-negative/Binary Matrix Factorization NBMF** method reported in:
+This work aims to partially reproduce the results of the **Non-negative/Binary Matrix Factorization (NBMF)** method reported in:
 
 1. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206653
 2. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244026
