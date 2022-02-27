@@ -1,7 +1,7 @@
 # Applied-Quantum-Machine-Learning
 
 ### Quantum Annealing for Non-negative/binary Matrix Factorization
-### Final Report of the course Applied Quantum Machine Learning
+### Report of the course Applied Quantum Machine Learning
 
 Author: Jose Pablo Quesada-Molina (Ph.D. Candidate at DICA, Politecnico di Milano )
 
@@ -14,7 +14,7 @@ This work aims to partially reproduce the results of the **Non-negative/binary m
 
 The folders in this repository are organized as follows:
 
-- The folder called **Main** contains a jupyter notebook file called **NBMF.ipynb** which has the full implementation of the method with detailed comments explaining the functionality of each cell; a dataset of facial images **faces.h5**  and the files containing the graphs of the generated embeddings (.pkl extension) together with the lists (.csv files) of the corresponding embedding times for three different instance sizes.
+- The folder called **Main** contains a jupyter notebook file called **NBMF.ipynb** which has the full implementation of the method with detailed comments explaining the functionality of each cell; the dataset of facial images **faces.h5**; the files containing the graphs of generated embeddings (.pkl extension) and corresponding embedding times, for three different instance sizes.
 
 - The folder called **Summary** contains additional jupyter notebook files for the posprocessing of the results. In particular, this folder contains the files called **plots.ipynb** which have the code to generate the plots summarizing the *Relative Error Evolution*, *%Change in B* and *%Change in C*. This is separated into two folders inside, one called **SA** containing the files for the simulated annealing experiments, and other called **QA** containing the summary plots for the quantum annealing experiments.
 
