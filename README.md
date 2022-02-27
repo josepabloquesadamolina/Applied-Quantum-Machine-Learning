@@ -1,16 +1,18 @@
 # Applied-Quantum-Machine-Learning
 
 ## Report of the course Applied Quantum Machine Learning
-### Quantum Annealing for Non-negative/binary matrix factorization
+### Quantum Annealing for Non-negative/binary matrix factorization (NBMF)
 
 Author: Jose Pablo Quesada-Molina (Ph.D. Candidate at DICA, Politecnico di Milano )
 
 This repository contains the implementation and data for the elaboration of the report to be considered for evaluation of the course: **Applied Quantum Machine Learning** taught at Politecnico di Milano (POLIMI) by Professor Paolo Cremonesi (DEIB, POLIMI), Alessandro Luongo (Research Fellow at Centre for Quantum Technologies) and Maurizio Ferrari Dacrema (Post-doctoral Researcher at DEIB, POLIMI). 
 
-This work aims to partially reproduce the results of the **Non-negative/binary matrix factorization** method reported in:
+This work aims to partially reproduce the results of the **Non-negative/Binary Matrix Factorization NBMF** method reported in:
 
 1. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206653
 2. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244026
+
+In the NBMF, an input matrix **A** is decomposed into the product of two low-rank matrices **B** and **C**, subjected to non-negative and binary constraints, respectively. Within this factorization scheme, quantum annealing can be applied to determine the solution for the binary matrix.
 
 The folders in this repository are organized as follows:
 
