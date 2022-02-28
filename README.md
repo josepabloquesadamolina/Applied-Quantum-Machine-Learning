@@ -22,5 +22,5 @@ The folders in this repository are organized as follows:
 
 - The folder called **Data** contains the original files (.csv, .txt, .png) generated during the execution of the experiments contained in this report. Again, there are two folders inside: **SA** and **QA**. Within **SA** there are 2 folders: **SA35** and **SA65**, referring to the original files from the simulated annealing experiments for the intermediate and maximum instance size, respectively. Within **QA**, there are 4 folders: **Default-annealing, Reverse, Extended-annealing, Pause-Quench** referring to the original files from the experiments using different quantum annealing schedules.
 
-**Note:** By default, **Implementation** folder also contains the files that allow to visualize the results associated to the **Reverse** experiment. To visualize the results of other experiments, copy and paste here the corresponding files from **Data**.
+**Note:** By default, **Implementation** folder also contains the files that allow to visualize the results associated to the **Reverse** experiment. To visualize the results of other experiments, copy and paste there the corresponding files from **Data**.
 
