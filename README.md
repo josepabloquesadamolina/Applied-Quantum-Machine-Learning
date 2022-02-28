@@ -20,7 +20,7 @@ The folders in this repository are organized as follows:
 
 - The folder called **Summary** contains additional jupyter notebook files for the posprocessing of the results. In particular, this folder contains the files required by the code **plots.ipynb** to generate the plots summarizing the **Relative Error Evolution**, **%Change in B** and **%Change in C**. The folder contains two folders inside, one called **SA** containing the posprocessed results for the simulated annealing experiments, and other called **QA** containing the posprocessed results for the quantum annealing experiments.
 
-- The folder called **Data** contains the original files (.csv, .txt, .png) generated during the execution of the quantum annealing experiments contained in this report. There are 4 folders: **Default-annealing, Reverse, Extended-annealing, Pause-Quench** referring to the original files from the experiments using different quantum annealing schedules.
+- The folder called **Data** contains the original files (.csv, .txt, .png) generated during the execution of the baseline model and the experiments using different quantum annealing schedules. There are 5 folders: **SA-Baseline, Default-annealing, Reverse, Extended-annealing, Pause-Quench**.
 
 **Note:** By default, **Implementation** folder also contains the files that allow to visualize the results associated to the **Reverse** experiment. To visualize the results of other experiments, copy and paste there the corresponding files from **Data**.
 
