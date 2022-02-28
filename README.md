@@ -1,6 +1,6 @@
 # Applied-Quantum-Machine-Learning
 
-## Report of the course Applied Quantum Machine Learning
+## Report of the course
 ### Quantum Annealing for Non-negative/binary matrix factorization (NBMF)
 
 Author: Jose Pablo Quesada-Molina (Ph.D. Candidate at DICA, Politecnico di Milano )
