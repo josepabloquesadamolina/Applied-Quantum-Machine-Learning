@@ -12,6 +12,8 @@ This work aims to partially reproduce the results of the **Non-negative/Binary M
 1. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206653
 2. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244026
 
+In the NBMF, an input matrix **A** is decomposed into the product of two low-rank matrices **BC**, subjected to non-negative and binary constraints, respectively.
+
 The folders in this repository are organized as follows:
 
 - The folder called **Implementation** contains a jupyter notebook file called **NBMF.ipynb** which has the full implementation of the method with detailed comments explaining the functionality of each cell; the dataset of facial images **faces.h5**; the files containing the graphs of generated embeddings (.pkl extension) and corresponding embedding time lists (.csv extension), for three different instance sizes.
